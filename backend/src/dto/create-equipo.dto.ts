@@ -25,17 +25,17 @@ export class CreateEquipoDto {
   @MinLength(3)
   tipo: string;
 
-  @IsOptional()
   @IsString()
-  marca?: string;
+  @IsNotEmpty()
+  marca: string;
 
-  @IsOptional()
   @IsString()
-  modelo?: string;
+  @IsNotEmpty()
+  modelo: string;
 
-  @IsOptional()
   @IsString()
-  ubicacion?: string;
+  @IsNotEmpty()
+  ubicacion: string;
 
   @IsEnum(EstadoEquipo)
   estado: EstadoEquipo;
