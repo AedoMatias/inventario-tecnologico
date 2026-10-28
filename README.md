@@ -35,7 +35,12 @@ Se puede utilizar XAMPP para iniciar MySQL.
 
 ## Uso de inteligencia artificial
 
-Se utilizó ChatGPT como apoyo para resolver dudas, revisar errores, trabajar en partes del código y preparar la documentación. Los cambios se fueron probando durante el desarrollo del proyecto.
+Se utilizó ChatGPT para resolver dudas, revisar errores, apoyar el desarrollo del frontend y backend, y preparar la documentación. Durante el desarrollo se probaron las funciones del sistema, como registrar, consultar, editar y eliminar equipos, además de utilizar los filtros. Los cambios se fueron revisando y ajustando según los resultados obtenidos.
 
-## Proyecto académico
-Evaluación 2 de Programación Web II.
+## Pruebas realizadas
+
+- Registro de equipos nuevos.
+- Consulta y edición de equipos.
+- Eliminación de equipos con confirmación.
+- Búsqueda y filtros por nombre, código, tipo, ubicación y estado.
+- Comprobación de los contadores por estado.
