@@ -1,5 +1,5 @@
 # Inventario Tecnológico
-
+Matias Aedo
 ## Descripción
 Sistema web para registrar y administrar los equipos tecnológicos de una organización.
 
